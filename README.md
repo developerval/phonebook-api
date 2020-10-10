@@ -1,2 +1,0 @@
-# phonebook-api
-hackajob challenge
